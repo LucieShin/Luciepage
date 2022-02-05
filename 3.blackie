@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+
+<head>
+<title> <a href="index">Cats with Lucie </a></title>
+<meta charset="utf-8">
+</head>
+
+<body>
+
+<h1> Cats with Lucie </h1>
+
+<ol> 		
+	<li> <a href="1.latte"> Latte</a> </li>
+	<li> <a href="2.moca"> Moca </a> </li>
+	<li> <a href="3.blackie"> Blackie </a> </li>
+</ol>
+
+
+<h2> Latte </h2>
+
+<img src="blackie" width="80%">
+<p><strong>Blackie, is <u>Actually Not Lucie's Cat</u></strong>, he only stays her house for few days as his mom go holiday to Nha Trang.</p>
+<p style="margin-top: 45px;"> with lots of worries from his mom and Lucie, currently Blackie is staying at Lucies' home with brothers. Latte is all the time freak out when sawing the Blackie. <br>
+so cuteeee </p>
+
+
+</body>
