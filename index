@@ -2,13 +2,13 @@
 <html>
 
 <head>
-<title> <a href="index">Cats with Lucie </a></title>
+<title> Lucie's Cats </title>
 <meta charset="utf-8">
 </head>
 
 <body>
 
-<h1> Cats with Lucie </h1>
+<h1> <a href="index">Cats with Lucie </a> </h1>
 
 <ol> 		
 	<li> <a href="1.latte"> Latte</a> </li>
@@ -17,11 +17,9 @@
 </ol>
 
 
-<h2> Latte </h2>
+<h2> Hello Cats </h2>
 
-<img src="latte" width="80%">
-<p><strong>Latte, is the <u>first</u> cat</strong> that Lucie had adopted when she came to Vietname. Latte has white hair and yellow eyes.. blah blah</p>
-<p style="margin-top: 45px;">When Latte had adopted very first he was 3months old, just born and never lived apart from his parents, which he hided under the bed for a day from strange lady.</p>
+<p><strong> Click the categories above to see the datail </strong> </p>
 
 
 </body>
